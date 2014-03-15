@@ -1,0 +1,2 @@
+class Episode(object):
+	pass
