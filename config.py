@@ -1,0 +1,1 @@
+PODCAST_DIR = "~/Documents/Podcasts/"
