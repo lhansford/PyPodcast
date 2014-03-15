@@ -1,2 +1,2 @@
-PODCAST_DIR = "~/Documents/Podcasts/"
-SUBS_DIR = "~/Documents/Podcasts/"
+PODCAST_DIR = "/Users/luke/Documents/Podcasts/"
+SUBS_DIR = "/Users/luke/Documents/Podcasts/"
